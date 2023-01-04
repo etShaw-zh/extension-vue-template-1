@@ -1,6 +1,7 @@
 <template>
     <div class="main_app">
         <h1>这是点击插件弹出页面77</h1>
+        <el-button>test</el-button>
     </div>
 </template>
 

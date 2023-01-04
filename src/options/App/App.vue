@@ -1,8 +1,10 @@
 <template>
     <div class="main_app">
         <h1>这是设置页面</h1>
+        <el-button type="primary">确 定</el-button>
     </div>
 </template>
+
 
 <script>
 export default {
